@@ -120,7 +120,7 @@ header {
 
 .skil ul {
   margin: 0;
-  width: 215px;
+  width: 50%;
   display: flex;
   flex-wrap: wrap;
   list-style: none;
@@ -149,7 +149,7 @@ li img {
 
 .other ul {
   margin: 0;
-  width: 410px;
+  width: ;
   display: flex;
   flex-wrap: wrap;
   list-style: none;
